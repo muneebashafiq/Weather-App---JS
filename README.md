@@ -12,4 +12,5 @@ A web-based weather app built with HTML, CSS, and JavaScript. This app displays:
 - HTML5
 - CSS3 (with animations and transitions)
 - JavaScript (with DOM manipulation and API calls)
+  
 
